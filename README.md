@@ -35,5 +35,6 @@ Initializing Classification Algorithms:
 * Machine Learning Algorithms: Naive Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest
 * Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 ### Model Accuracy:
-<img align="center" height="500" width="500" alt="" src="https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/blob/main/CorrelationMatrix.png" />
+![Correlation Matrix](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CorrelationMatrix.png)
+
 
