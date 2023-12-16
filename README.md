@@ -13,6 +13,7 @@ Build a model that predicts/classifies whether a website phishing website.
 #### 3. Data Preprocessing:
 * Checking for missing values in the dataset.
 * Forming a correlation matrix to identify important features.
+  ![Correlation Matrix](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CorrelationMatrix.png)
 * Selecting features based on a correlation threshold of 20%.
 * Data Splitting:
 Splitting the dataset into independent features (X) and the target concept (y).
@@ -35,6 +36,6 @@ Initializing Classification Algorithms:
 * Machine Learning Algorithms: Naive Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest
 * Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 ### Model Accuracy:
-![Correlation Matrix](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CorrelationMatrix.png)
+
 
 
