@@ -37,6 +37,12 @@ Initializing Classification Algorithms:
 * Machine Learning Algorithms: Naive Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest
 * Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 ### Model Accuracy:
+Random Forest Classification performed Better in Both the Cases
 
-
+### References:
+* Pandas:https://pandas.pydata.org/docs/
+* Sci-kit Learn:https://scikit-learn.org/stable/user_guide.html
+* Seaborn:https://seaborn.pydata.org/tutorial.html
+* Evalution Metrics:https://www.geeksforgeeks.org/metrics-for-machine-learning-model/
+* Threshold Selection: https://ieeexplore.ieee.org/abstract/document/5209842
 
