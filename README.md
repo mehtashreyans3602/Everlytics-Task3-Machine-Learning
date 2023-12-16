@@ -15,6 +15,7 @@ Build a model that predicts/classifies whether a website phishing website.
 * Forming a correlation matrix to identify important features.
   ![Correlation Matrix](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CorrelationMatrix.png)
 * Selecting features based on a correlation threshold of 20%.
+** Outcome: 13 Important Features: 'SSLfinal_State', 'URL_of_Anchor', 'Prefix_Suffix', 'web_traffic', 'Page_Rank', 'age_of_domain', 'having_Sub_Domain', 'Domain_registeration_length', 'Request_URL', 'Links_in_tags'.
 * Data Splitting:
 Splitting the dataset into independent features (X) and the target concept (y).
 Alternatively, selecting only the important features.
