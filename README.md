@@ -37,6 +37,13 @@ Initializing Classification Algorithms:
 * Machine Learning Algorithms: Naive Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest
 * Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 ### Model Accuracy:
+* Confusion Matrix of All the Models fitted with all the set of Features.
+![Confusion Matrix Results](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CMresult.jpg)
+![Confusion Matrix Results 2](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CMresult2.jpg)
+* Confusion Matrix of All the Models fitted with all the Important  set of Features.
+* Data Table of other Evaluation Matrix:
+![Evaluation](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/Evalution.jpg)
+
 Random Forest Classification performed Better in Both the Cases
 
 ### References:
