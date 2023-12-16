@@ -39,8 +39,10 @@ Initializing Classification Algorithms:
 ### Model Accuracy:
 * Confusion Matrix of All the Models fitted with all the set of Features.
 ![Confusion Matrix Results](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CMresult.jpg)
-![Confusion Matrix Results 2](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CMresult2.jpg)
+
 * Confusion Matrix of All the Models fitted with all the Important  set of Features.
+![Confusion Matrix Results 2](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/CMresult2.jpg)
+
 * Data Table of other Evaluation Matrix:
 ![Evaluation](https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning/raw/main/Evalution.jpg)
 
