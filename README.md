@@ -25,11 +25,11 @@ Initializing Classification Algorithms:
 4. Creating a dictionary containing instances of various classification algorithms, such as Naive Bayes, Logistic Regression, SVM, Decision Tree, and Random Forest.
 5. Training Models:
 
-Training each model on the entire feature set and evaluating their performance.
-Training each model on the selected important features and evaluating their performance.
+* Training each model on the entire feature set and evaluating their performance.
+* Training each model on the selected important features and evaluating their performance.
 6. Displaying Results:
-Displaying confusion matrices for each model on both the entire feature set and important features.
-Displaying evaluation measures, including accuracy, precision, recall, and F1 score, for each model on both feature sets.
+* Displaying confusion matrices for each model on both the entire feature set and important features.
+* Displaying evaluation measures, including accuracy, precision, recall, and F1 score, for each model on both feature sets.
 ### Tools And Techniques Used:
 * Libraries: Pandas, Seaborn, Matplotlib, Scikit-learn
 * Machine Learning Algorithms: Naive Bayes, Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest
