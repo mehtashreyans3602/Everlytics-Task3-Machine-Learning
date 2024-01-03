@@ -1,7 +1,5 @@
-## Github Link: [https://github.com/mehtashreyans3602/Everlytics-Task3-Machine-Learning](https://github.com/mehtashreyans3602/PhishingOrNot)
-# Everlytics-Task3-Machine-Learning
- This Project consist of Everlytics Data Engineering and Machine Learning Internship Task3
- ### Question:
+## Github Link: [PhishingOrNot](https://github.com/mehtashreyans3602/PhishingOrNot)
+### Question:
 Build a model that predicts/classifies whether a website phishing website.
 
 ### Approach:
